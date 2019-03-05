@@ -6,3 +6,4 @@
 * Gal Costa
 * Elis Regina
 * Eliseth Cardoso
+* Clara Nunes
