@@ -7,3 +7,4 @@
 * Elis Regina
 * Eliseth Cardoso
 * Clara Nunes
+* Elza Soares
